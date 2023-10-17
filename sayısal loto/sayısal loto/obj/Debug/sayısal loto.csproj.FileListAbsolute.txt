@@ -1,0 +1,8 @@
+C:\Users\MEHMET EFE\source\repos\sayısal loto\sayısal loto\obj\Debug\sayısal loto.csproj.AssemblyReference.cache
+C:\Users\MEHMET EFE\source\repos\sayısal loto\sayısal loto\obj\Debug\sayısal loto.csproj.SuggestedBindingRedirects.cache
+C:\Users\MEHMET EFE\source\repos\sayısal loto\sayısal loto\obj\Debug\sayısal loto.csproj.CoreCompileInputs.cache
+C:\Users\MEHMET EFE\source\repos\sayısal loto\sayısal loto\bin\Debug\sayısal loto.exe.config
+C:\Users\MEHMET EFE\source\repos\sayısal loto\sayısal loto\bin\Debug\sayısal loto.exe
+C:\Users\MEHMET EFE\source\repos\sayısal loto\sayısal loto\bin\Debug\sayısal loto.pdb
+C:\Users\MEHMET EFE\source\repos\sayısal loto\sayısal loto\obj\Debug\sayısal loto.exe
+C:\Users\MEHMET EFE\source\repos\sayısal loto\sayısal loto\obj\Debug\sayısal loto.pdb
